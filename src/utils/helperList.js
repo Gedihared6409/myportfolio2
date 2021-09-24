@@ -72,7 +72,7 @@ export const skillsList = [{
 
 export const projectsList = [{
   label: 'Asset Inventory- Python & Django',
-  imgSrc: '/images/Screenshot from 2021-08-30 12-12-23.png',
+  imgSrc: 'https://i.ytimg.com/vi/wQmpesReSf8/maxresdefault.jpg',
   src: 'https://assets-inventoryy.herokuapp.com/',
   githubSrc: 'https://github.com/Gedihared6409/asset-inventory',
  
@@ -80,18 +80,18 @@ export const projectsList = [{
   
 }, {
   label: 'Ecomerce Website- Javascript , Python & Django',
-  imgSrc: '/images/Screenshot from 2021-08-30 12-13-06.png',
+  imgSrc: 'https://bit.ly/3uaXIly',
   src: 'https://ecomerceweb.herokuapp.com/',
   githubSrc: 'https://github.com/Gedihared6409/ecomerce',
   description: 'This full ecomerce website with payment integration and users can able to shop as a registered user and as a geust without acctually having to create an accout and also checkout and never have to register'
 }, {
   label: 'News webApp- Flask & python ',
   src: 'https://listnews.herokuapp.com/',
-  imgSrc: "/images/ali.png",
+  imgSrc: "https://bit.ly/39BKcOm",
   
 }, {
   label: 'Projects Awwards - Python & Django',
-  imgSrc: '/images/Screenshot from 2021-08-30 12-12-49.png',
+  imgSrc: 'https://bit.ly/3lVfhlF',
   src: 'https://awwards0.herokuapp.com/',
   githubSrc: 'https://github.com/Gedihared6409/project-awad',
   description: 'This project allows users to post their projects for other users to rate according to design, usability and content'
