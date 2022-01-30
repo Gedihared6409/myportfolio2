@@ -71,6 +71,20 @@ export const skillsList = [{
 }, ];
 
 export const projectsList = [{
+  label: 'Ecomerce Website- Javascript , Python & Django',
+  imgSrc: 'https://bit.ly/3uaXIly',
+  src: 'https://ecomerceweb.herokuapp.com/',
+  githubSrc: 'https://github.com/Gedihared6409/ecomerce',
+  description: 'This full ecomerce website with payment integration and users can able to shop as a registered user and as a geust without acctually having to create an accout and also checkout and never have to register'
+}, {
+  label: 'Music Controller - React,REST API,Python & Django',
+  imgSrc: 'https://bit.ly/3AIxIRy',
+  src: 'https://reactappp.herokuapp.com/',
+  githubSrc: 'https://github.com/Gedihared6409/Music-ontroller',
+  description: "The project is a collaborative music playing system thatgets the songs from spotify through APIs. Its a way for agroup of people to control the music that is being played.There will be one host who can create a room and controls"
+},
+
+{
   label: 'Asset Inventory- Python & Django',
   imgSrc: 'https://i.ytimg.com/vi/wQmpesReSf8/maxresdefault.jpg',
   src: 'https://assets-inventoryy.herokuapp.com/',
@@ -78,21 +92,4 @@ export const projectsList = [{
  
   description: 'This is an asset inventory system that enables an organization to keep track of all the assets and their state, to ensure easy identification of any asset which need repair or purchase.'
   
-}, {
-  label: 'Ecomerce Website- Javascript , Python & Django',
-  imgSrc: 'https://bit.ly/3uaXIly',
-  src: 'https://ecomerceweb.herokuapp.com/',
-  githubSrc: 'https://github.com/Gedihared6409/ecomerce',
-  description: 'This full ecomerce website with payment integration and users can able to shop as a registered user and as a geust without acctually having to create an accout and also checkout and never have to register'
-}, {
-  label: 'News webApp- Flask & python ',
-  src: 'https://listnews.herokuapp.com/',
-  imgSrc: "https://bit.ly/39BKcOm",
-  
-}, {
-  label: 'Projects Awwards - Python & Django',
-  imgSrc: 'https://bit.ly/3lVfhlF',
-  src: 'https://awwards0.herokuapp.com/',
-  githubSrc: 'https://github.com/Gedihared6409/project-awad',
-  description: 'This project allows users to post their projects for other users to rate according to design, usability and content'
 }]
