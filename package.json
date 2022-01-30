@@ -1,7 +1,7 @@
 {
   "name": "myportfolio2.github.io",
   "version": "0.1.0",
-  "homepage": "https://gedihared6409.github.io/myportfolio2-/",
+  "homepage": "https://gedihared6409.github.io/myportfolio2/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
